@@ -1,0 +1,35 @@
+{
+  "Solo": {
+    "BulletDamage": 1,
+    "DamagePlayer": 1,
+    "HammerDamage": 1,
+    "EnemyWaveCost": 1,
+    "ProgressBioscan": 1,
+    "enabled": false
+  },
+  "Duo": {
+    "BulletDamage": 1,
+    "DamagePlayer": 1,
+    "HammerDamage": 1,
+    "EnemyWaveCost": 1,
+    "ProgressBioscan": 1,
+    "enabled": false
+  },
+  "Trio": {
+    "BulletDamage": 1,
+    "DamagePlayer": 1,
+    "HammerDamage": 1,
+    "EnemyWaveCost": 1,
+    "ProgressBioscan": 1,
+    "enabled": false
+  },
+  "Full": {
+    "BulletDamage": 1,
+    "DamagePlayer": 1,
+    "HammerDamage": 1,
+    "EnemyWaveCost": 1,
+    "ProgressBioscan": 1,
+    "enabled": false
+  },
+  "internalEnabled": false
+}

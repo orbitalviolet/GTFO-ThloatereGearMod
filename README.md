@@ -50,6 +50,21 @@ Weapon changes are generally made according to this philosophy.
 - Reload time: 1.6s
 - Damage falloff: 6.5 ~ 34
 
+### Boltthrower
+
+*tru0067 once pointed out there's no weapon that kills Strikers in 1 headshot or 3 bodyshots in an ancient post somewhere, comparing such an idea to the PUBG Winchester, so this reference-overdosed abomination was born. The name's from Nova Drift, the general function is comparable to the eponymous PUBG weapon, the idea of it being an armour-piercing stake launcher brings Warhammer 40,000 to mind... I like how it turned out. Perhaps the most challenging part of designing the Boltthrower was actually how to make it not suck completely into Chargers... which is where it got the overpenetration plus insanely high stagger counterbalanced by low ammo for a DMR-type weapon from.*
+
+- Semi-automatic
+- Damage: 9.91
+- Precision multiplier: 1.5x
+- Stagger multiplier: 2.1x
+- Magazine size: 9
+- Ammo reserves: 33
+- Delay between shots: 0.65s
+- Reload time: 2.7s
+- Damage falloff: 25 ~ 60
+- Piercing: 1
+
 ### Tactical Shotgun
 
 *An attempt to make a non-gimmicky primary shotgun for enjoyers of the weapon class. It's pretty basic but at least gets to call slightly higher effective range and slightly slow fire rate its own. Actually, this is sort of an attempt to reintroduce the vanilla Slug Shotgun but without the complications of not being a pellet weapon.*
@@ -122,6 +137,21 @@ Weapon changes are generally made according to this philosophy.
 - Reload time: 2.4s
 - Damage falloff: 40 ~ 125
 
+### Chain Boltthrower
+
+*Rather conveniently, the same comment that inspired the Boltthrower also suggested the idea of a low RoF high damage machinegun-type weapon with an agonizingly slow charge-up time. Fullauto'ing the Boltthrower and upscaling the stats made this one pretty easy to make, but the cursed 1+1 or 2 breakpoint on Strikers from the Battle Rifle had to be kept to avoid completely overshadowing the Specialist weapons... The magazine size and Striker two-shot are a resurrection of the Alpha 1 Machinegun, and the design is just a GTFO'd Heavy Bolter...*
+
+- Fully automatic
+- Damage: 13.31
+- Precision multiplier: 0.5x
+- Stagger multiplier: 1.51x
+- Magazine size: 15
+- Ammo reserves: 95
+- Rounds per second: 4.2
+- Reload time: 2.9s
+- Damage falloff: 20 ~ 65
+- Piercing: 1
+
 ### Accelerator Rifle
 
 *Killzone fans rejoice! The Accelerator Rifle is the vanilla Burst Cannon brought back as a more specialised weapon that demands the user flick a burst over crowds to annihilate them en masse, while also being able to provide ammo-hungry but time-efficient emergency removal of big enemies.*
@@ -184,11 +214,12 @@ Weapon changes are generally made according to this philosophy.
 
 ### Sledgehammer
 
-*The Sledgehammer continues to offer a well-rounded balance of heavy damage and stagger, so it's only received a very minor usability upgrade to keep pace with the rest of Thloatere's melees.*
+*The Sledgehammer continues to offer a well-rounded balance of heavy damage and stagger, so it's only received a very minor usability upgrade to keep pace with the rest of Thloatere's melees. The light attack has gained a (small) stamina cost to add a feel difference between light and heavy melee.*
 
 - Charge time: 1.8 -> 1.75
-- Charged attack stamina cost: 5% -> 2.5%
-- Shove attack stamina cost: 5% -> 2.5%
+- Charged attack stamina cost: 5%/5% -> 2.5%/2.5%
+- Light attack stamina cost: 0%/0% -> 1.5%/0.75%
+- Shove attack stamina cost: 5%/5% -> 2.5%/2.5%
 
 ### Knife
 
@@ -201,16 +232,17 @@ Weapon changes are generally made according to this philosophy.
 *VanillaReloaded's Bat damage change was a very nice change that fit sthe vision of Thloatere well, accentuating a unique strength to set it apart from the Sledgehammer and Knife. In addition, its stamina cost was removed to better compete with the super-fast Knife of Thloatere.*
 
 - Light attack damage: 3.0 -> 4.0
-- Charged attack stamina cost: 2.5% -> 0%
-- Shove stamina cost: 2.5% -> 0%
+- Charged attack stamina cost: 2.5%/2.5% -> 0%/0%
+- Shove stamina cost: 2.5%/2.5% -> 0%/0%
 
 ### Spear
 
-*Another case where VanillaReloaded really knows how to accentuate a weapon's strengths. Just as in that mod, these changes also help this iteration of the Spear gain a defensive advantage over the Sleepers while also providing a skilled prisoner with a way to take on multiple big enemies at once and readily win.*
+*Another case where VanillaReloaded really knows how to accentuate a weapon's strengths. Just as in that mod, these changes also help this iteration of the Spear gain a defensive advantage over the Sleepers while also providing a skilled prisoner with a way to take on multiple big enemies at once and readily win. Much like the Sledgehammer, the light attack now has a stamina cost to make the weapon's weight more perceptible.*
 
 - Light attack damage: 2.0 -> 2.5
-- Charged attack stamina cost: 5% -> 2.5%
-- Shove stamina cost: 5% -> 2.5%
+- Charged attack stamina cost: 5%/5% -> 2.5%/2.5%
+- Light attack stamina cost: 0% /0%-> 1.5%/0.75%
+- Shove attack stamina cost: 5%/5% -> 2.5%/2.5%
 - Max damage charge time: 1.8 -> 1.5
 - Sprint speed multiplier: 0.75x -> 0.85x
 
@@ -344,6 +376,7 @@ Weapon changes are generally made according to this philosophy.
 - Ammo reserves: 121 -> 107
 - Damage falloff start: 22 -> 30
 - Damage falloff end: 80 -> 90
+- Updated audiogroup to better reflect the weapon's power
 - Sight part changed to thermal scope; flashlight changed to short flashlight to put emphasis on using the thermal scope
 
 ### DMR
@@ -357,6 +390,7 @@ Weapon changes are generally made according to this philosophy.
 - Ammo reserves: 78 -> 75
 - Damage falloff start: 50 -> 40
 - Damage falloff end: 100 -> 90
+- Updated audiogroup to better reflect the weapon's power
 
 ### Double-Tap Rifle
 
@@ -371,6 +405,7 @@ Weapon changes are generally made according to this philosophy.
 - Reload time: 2.15s -> 2.0s
 - Damage falloff start: 40 -> 50
 - Damage falloff end: 90 -> 100
+- Updated audiogroup to better reflect the weapon's power
 
 ### HEL Revolver
 
@@ -492,6 +527,7 @@ Weapon changes are generally made according to this philosophy.
 - Reload time: 1.7s -> 1.6s
 - Damage falloff start: 8 -> 12
 - Damage falloff end: 58 -> 50
+- Updated audiogroup to better reflect the weapon's power
 - Sight part changed to thermal sight; flashlight changed to short flashlight to put emphasis on using the thermal sight
 
 ### Revolver
@@ -523,6 +559,7 @@ Weapon changes are generally made according to this philosophy.
 
 *To contrast the Revolver's fast bullet-slinging quick-reloading low magazine size nature with high upfront damage, the Precision Rifle is clumsy to use but offers a long-term strategic advantage over long periods of consistently hitting weakpoints thanks to its thermal scope and ammo reserves. Like the Revolver, this should be better into Chargers now.*
 
+- Firemode: Auto -> Semi
 - Damage: 13 -> 15.01
 - Precision multiplier: 1.3x -> 1.3333x
 - Magazine size: 10 -> 12
@@ -530,7 +567,6 @@ Weapon changes are generally made according to this philosophy.
 - Reload time: 3.3s -> 3.0s
 - Damage falloff start: 30 -> 50
 - Damage falloff end: 70 -> 100
-- Firemode changed: Semi -> Auto
 - Updated audiogroup to better reflect the weapon's power
 - Flashlight changed to short flashlight to put emphasis on using the thermal scope
 
@@ -628,7 +664,6 @@ Weapon changes are generally made according to this philosophy.
 - Increased pellet dispersion
 - Now has a 0.5s charge-up time
 - Piercing: 0 -> 2
-- Overall now fires a burst every 1.2sec
 - Updated audiogroup to better reflect the weapon's power
 
 ## Existing Tool Changes

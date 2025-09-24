@@ -1,6 +1,6 @@
 {
-    "name": "Thloatere Gear Mod",
-    "version_number": "1.0.0",
+    "name": "ThloatereGearMod",
+    "version_number": "2.0.1",
     "website_url": "https://github.com/orbitalviolet/GTFO-ThloatereGearMod",
     "description": "Thloatere Gear Mod re-stats the game's arsenal into a state where the weapons are more level with each other and the power dynamic between the players and the Sleepers plays more tug-of-war than usual.",
     "dependencies": [

@@ -28,20 +28,20 @@
       "MeleeAnimationSet": 1,
       "MeleeSFXSet": 1,
       "ChargedAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.05,
-        "baseStaminaCostOutOfCombat": 0.05,
+        "baseStaminaCostInCombat": 0.025,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": true,
         "resetRestingTimerOutOfCombat": true
       },
       "LightAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.0,
-        "baseStaminaCostOutOfCombat": 0.0,
+        "baseStaminaCostInCombat": 0.015,
+        "baseStaminaCostOutOfCombat": 0.0075,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
       "PushStaminaCost": {
-        "baseStaminaCostInCombat": 0.05,
-        "baseStaminaCostOutOfCombat": 0.05,
+        "baseStaminaCostInCombat": 0.025,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
@@ -124,20 +124,20 @@
       "MeleeAnimationSet": 3,
       "MeleeSFXSet": 3,
       "ChargedAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.0,
-        "baseStaminaCostOutOfCombat": 0.0,
+        "baseStaminaCostInCombat": 0.025,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": true,
         "resetRestingTimerOutOfCombat": true
       },
       "LightAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.0,
-        "baseStaminaCostOutOfCombat": 0.0,
+        "baseStaminaCostInCombat": 0.015,
+        "baseStaminaCostOutOfCombat": 0.0075,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
       "PushStaminaCost": {
-        "baseStaminaCostInCombat": 0.0,
-        "baseStaminaCostOutOfCombat": 0.0,
+        "baseStaminaCostInCombat": 0.025,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
@@ -149,7 +149,7 @@
       "PublicName": "Bat",
       "NoiseLevel": 0,
       "ChargedAttackDamage": 12.0,
-      "LightAttackDamage": 3.5,
+      "LightAttackDamage": 4.0,
       "LightStaggerMulti": 4.0,
       "ChargedStaggerMulti": 7.0,
       "LightPrecisionMulti": 1.0,
@@ -172,8 +172,8 @@
       "MeleeAnimationSet": 4,
       "MeleeSFXSet": 4,
       "ChargedAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.025,
-        "baseStaminaCostOutOfCombat": 0.025,
+        "baseStaminaCostInCombat": 0.0,
+        "baseStaminaCostOutOfCombat": 0.0,
         "resetRestingTimerInCombat": true,
         "resetRestingTimerOutOfCombat": true
       },
@@ -184,8 +184,8 @@
         "resetRestingTimerOutOfCombat": false
       },
       "PushStaminaCost": {
-        "baseStaminaCostInCombat": 0.025,
-        "baseStaminaCostOutOfCombat": 0.025,
+        "baseStaminaCostInCombat": 0.0,
+        "baseStaminaCostOutOfCombat": 0.0,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
@@ -220,20 +220,20 @@
       "MeleeAnimationSet": 5,
       "MeleeSFXSet": 3,
       "ChargedAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.1,
-        "baseStaminaCostOutOfCombat": 0.1,
+        "baseStaminaCostInCombat": 0.035,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": true,
         "resetRestingTimerOutOfCombat": true
       },
       "LightAttackStaminaCost": {
-        "baseStaminaCostInCombat": 0.05,
-        "baseStaminaCostOutOfCombat": 0.05,
+        "baseStaminaCostInCombat": 0.035,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
       "PushStaminaCost": {
-        "baseStaminaCostInCombat": 0.075,
-        "baseStaminaCostOutOfCombat": 0.05,
+        "baseStaminaCostInCombat": 0.035,
+        "baseStaminaCostOutOfCombat": 0.025,
         "resetRestingTimerInCombat": false,
         "resetRestingTimerOutOfCombat": false
       },
